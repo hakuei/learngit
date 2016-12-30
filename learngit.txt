@@ -1,1 +1,2 @@
 	I'm gonna learn git!
+	It's a version control system.
