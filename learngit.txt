@@ -1,3 +1,4 @@
 	I'm gonna learn git!
 	It's a version control system.
 	Git has a mutable index called stage.
+	Git tracks changes.
